@@ -1,2 +1,3 @@
-# covid-19-visualization
-Data Visualization Project
+**TO DO - Add project details and run commands**
+
+**md - mark down files - for code purpose**
